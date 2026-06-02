@@ -1,0 +1,3 @@
+"""
+Core global configuration definitions.
+"""
